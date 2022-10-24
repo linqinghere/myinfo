@@ -1,0 +1,9 @@
+# Site settings
+title: Great New Blog Title
+author:
+  name: Linqing Li
+  email: lli260@ucr.edu
+  description: "on GH-pages."
+
+# Build settings
+remote_theme: jekyll.minima
