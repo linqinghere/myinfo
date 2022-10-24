@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: dark
 title: About
+example: "Example text in this variable."
 ---
 
-Some Markdown
+This page is amazing {{site.title}}
